@@ -9,4 +9,4 @@ A new course scheduling based on mining for students’ preferences for Open Ele
 #### Citation
 If using this code, please cite our work using : 
 
-Susan, Seba, and Aparna Bhutani. "Data Mining with Association Rules for Scheduling Open Elective Courses Using Optimization Algorithms." In International Conference on Intelligent Systems Design and Applications, pp. 770-778. Springer, Cham, 2018.
+Susan, Seba, and Aparna Bhutani. "Data Mining with Association Rules for Scheduling Open Elective Courses Using Optimization Algorithms." In *International Conference on Intelligent Systems Design and Applications*, pp. 770-778. Springer, Cham, 2018.
